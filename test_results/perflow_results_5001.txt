@@ -1,0 +1,66 @@
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 49] local 10.0.0.1 port 5001 connected with 10.0.0.4 port 51069
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 49]  0.0- 1.0 sec  7.18 KBytes  58.8 Kbits/sec  70.163 ms  340/  345 (99%)
+[ 49] 0.00-1.00 sec  1 datagrams received out-of-order
+[ 49]  1.0- 2.0 sec  4.31 KBytes  35.3 Kbits/sec  113.274 ms    0/    1 (0%)
+[ 49] 1.00-2.00 sec  2 datagrams received out-of-order
+[ 49]  2.0- 3.0 sec  4.31 KBytes  35.3 Kbits/sec  149.291 ms    0/    1 (0%)
+[ 49] 2.00-3.00 sec  2 datagrams received out-of-order
+[ 49]  3.0- 4.0 sec  4.31 KBytes  35.3 Kbits/sec  182.489 ms    0/    1 (0%)
+[ 49] 3.00-4.00 sec  2 datagrams received out-of-order
+[ 49]  4.0- 5.0 sec  2.87 KBytes  23.5 Kbits/sec  208.474 ms    0/    1 (0%)
+[ 49] 4.00-5.00 sec  1 datagrams received out-of-order
+[ 49]  5.0- 6.0 sec  4.31 KBytes  35.3 Kbits/sec  232.208 ms    0/    1 (0%)
+[ 49] 5.00-6.00 sec  2 datagrams received out-of-order
+[ 49]  6.0- 7.0 sec  27.3 KBytes   223 Kbits/sec  95.838 ms    0/    7 (0%)
+[ 49] 6.00-7.00 sec  12 datagrams received out-of-order
+[ 49]  7.0- 8.0 sec  60.3 KBytes   494 Kbits/sec  29.225 ms    0/   15 (0%)
+[ 49] 7.00-8.00 sec  27 datagrams received out-of-order
+[ 49]  8.0- 9.0 sec  58.9 KBytes   482 Kbits/sec  24.218 ms    0/   14 (0%)
+[ 49] 8.00-9.00 sec  27 datagrams received out-of-order
+[ 49]  9.0-10.0 sec  58.9 KBytes   482 Kbits/sec  24.481 ms    0/   17 (0%)
+[ 49] 9.00-10.00 sec  24 datagrams received out-of-order
+[ 49] 10.0-11.0 sec  60.3 KBytes   494 Kbits/sec  23.977 ms    0/   18 (0%)
+[ 49] 10.00-11.00 sec  24 datagrams received out-of-order
+[ 49] 11.0-12.0 sec  58.9 KBytes   482 Kbits/sec  24.121 ms    0/   14 (0%)
+[ 49] 11.00-12.00 sec  27 datagrams received out-of-order
+[ 49] 12.0-13.0 sec  58.9 KBytes   482 Kbits/sec  24.252 ms    0/    0 (-nan%)
+[ 49] 12.00-13.00 sec  41 datagrams received out-of-order
+[ 49] 13.0-14.0 sec  60.3 KBytes   494 Kbits/sec  24.139 ms    0/    0 (-nan%)
+[ 49] 13.00-14.00 sec  42 datagrams received out-of-order
+[ 49] 14.0-15.0 sec  58.9 KBytes   482 Kbits/sec  24.178 ms    0/    0 (-nan%)
+[ 49] 14.00-15.00 sec  41 datagrams received out-of-order
+[ 49] 15.0-16.0 sec  58.9 KBytes   482 Kbits/sec  24.166 ms    0/    0 (-nan%)
+[ 49] 15.00-16.00 sec  41 datagrams received out-of-order
+[ 49] 16.0-17.0 sec  45.9 KBytes   376 Kbits/sec  254.557 ms    0/    7 (0%)
+[ 49] 16.00-17.00 sec  25 datagrams received out-of-order
+[ 49] 17.0-18.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 18.0-19.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 19.0-20.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 20.0-21.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 21.0-22.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 22.0-23.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 23.0-24.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 24.0-25.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 25.0-26.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 26.0-27.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 27.0-28.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 28.0-29.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 29.0-30.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 30.0-31.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 31.0-32.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 32.0-33.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 33.0-34.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 34.0-35.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 35.0-36.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 36.0-37.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 37.0-38.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 38.0-39.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 39.0-40.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 40.0-41.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
+[ 49] 41.0-42.0 sec  0.00 Bytes  0.00 bits/sec   0.000 ms    0/    0 (0%)
