@@ -1,0 +1,22 @@
+setting the IP address and for router s1r1... 
+
+[{"switch_id": "0000000000000011", "command_result": [{"result": "success", "details": "Add address [address_id=1]"}]}]
+ 0
+[{"switch_id": "0000000000000011", "command_result": [{"result": "success", "details": "Add address [address_id=2]"}]}]
+ 0
+setting the IP address and for router s1... 
+
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "Add address [address_id=1]"}]}]
+ 0
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "Add address [address_id=2]"}]}]
+ 0
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "Add address [address_id=3]"}]}]
+ 0
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "Add address [address_id=4]"}]}]
+ 0
+setting the IP address and for router s1r4... 
+
+[{"switch_id": "0000000000000041", "command_result": [{"result": "success", "details": "Add address [address_id=1]"}]}]
+ 0
+[{"switch_id": "0000000000000041", "command_result": [{"result": "success", "details": "Add address [address_id=2]"}]}]
+ 0

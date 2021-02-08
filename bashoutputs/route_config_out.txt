@@ -1,0 +1,16 @@
+setting the default route for router s1r1... 
+
+[{"switch_id": "0000000000000011", "command_result": [{"result": "success", "details": "Add route [route_id=1]"}]}]
+ 0
+setting the default route for router s1r4... 
+
+[{"switch_id": "0000000000000041", "command_result": [{"result": "success", "details": "Add route [route_id=1]"}]}]
+ 0
+setting static route for s1 ... 
+
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "Add route [route_id=1]"}]}]
+ 0
+setting static route for s1 ... 
+
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "Add route [route_id=2]"}]}]
+ 0
