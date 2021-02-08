@@ -1,0 +1,21 @@
+setting ovsdb_addr to access OVSDB...
+
+ 0
+
+ 0
+
+ 0
+setting the queue params...
+[{"switch_id": "0000000000000001", "command_result": {"result": "success", "details": {"0": {"config": {"max-rate": "500000"}}, "1": {"config": {"min-rate": "800000"}}}}}]
+ 0
+[{"switch_id": "0000000000000011", "command_result": {"result": "success", "details": {"0": {"config": {"max-rate": "500000"}}, "1": {"config": {"min-rate": "800000"}}}}}]
+ 0
+[{"switch_id": "0000000000000041", "command_result": {"result": "success", "details": {"0": {"config": {"max-rate": "500000"}}, "1": {"config": {"min-rate": "800000"}}}}}]
+ 0
+installing flow entry to the switch...
+[{"switch_id": "0000000000000001", "command_result": [{"result": "success", "details": "QoS added. : qos_id=1"}]}]
+ 0
+[{"switch_id": "0000000000000011", "command_result": [{"result": "success", "details": "QoS added. : qos_id=1"}]}]
+ 0
+[{"switch_id": "0000000000000041", "command_result": [{"result": "success", "details": "QoS added. : qos_id=1"}]}]
+ 0
