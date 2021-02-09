@@ -1,0 +1,18 @@
+------------------------------------------------------------
+Server listening on UDP port 5003
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 25] local 172.16.20.10 port 5003 connected with 192.168.30.10 port 50462
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 25]  0.0- 1.0 sec  77.5 KBytes   635 Kbits/sec   0.018 ms    0/   54 (0%)
+[ 25]  1.0- 2.0 sec  74.6 KBytes   612 Kbits/sec   0.021 ms    0/   52 (0%)
+[ 25]  2.0- 3.0 sec  73.2 KBytes   600 Kbits/sec   2.654 ms    0/   51 (0%)
+[ 25]  3.0- 4.0 sec  74.6 KBytes   612 Kbits/sec   4.266 ms    0/   52 (0%)
+[ 25]  4.0- 5.0 sec  76.1 KBytes   623 Kbits/sec   4.230 ms    0/   53 (0%)
+[ 25]  5.0- 6.0 sec  73.2 KBytes   600 Kbits/sec   4.172 ms    0/   51 (0%)
+[ 25]  6.0- 7.0 sec  77.5 KBytes   635 Kbits/sec   3.682 ms    0/   54 (0%)
+[ 25]  7.0- 8.0 sec  74.6 KBytes   612 Kbits/sec   4.216 ms    0/   52 (0%)
+[ 25]  8.0- 9.0 sec  73.2 KBytes   600 Kbits/sec   4.045 ms    0/   51 (0%)
+[ 25]  9.0-10.0 sec  76.1 KBytes   623 Kbits/sec   4.082 ms    0/   53 (0%)
+[ 25]  0.0-10.0 sec   752 KBytes   614 Kbits/sec   4.270 ms    0/  524 (0%)
