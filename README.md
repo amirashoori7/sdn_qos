@@ -25,6 +25,8 @@ git clone https://github.com/faucetsdn/ryu.git
 cd ryu/
 pip3 install .
 ```
+Also in order to implement qos you need to copy qos_rest_router.py
+and qos_simple_switch_13.py to ryu/ryu/app directory
 
 ## install iperf3
 ```bash
