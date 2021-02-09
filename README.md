@@ -26,6 +26,11 @@ cd ryu/
 pip3 install .
 ```
 
+## install iperf3
+```bash
+apt -y install iperf3
+```
+
 ## install D-ITG
 ```bash
 wget http://www.grid.unina.it/software/ITG/codice/D-ITG-2.8.1-r1023-src.zip
