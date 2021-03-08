@@ -1,0 +1,248 @@
+/*
+    Copyright (c) Maen Artimy, 2018
+*/
+
+form {
+  padding: 0px 10px;
+}
+
+.formcontrol {
+  padding-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+input {
+  width: 175px;
+}
+
+input[type="checkbox"] {
+  width: 15px;
+}
+
+input[type="radio"] {
+  margin-left: 0;
+  width: 15px;
+}
+
+ul.operation {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+/*ul.operation li {
+  display: block;
+  margin-left: 0;
+}*/
+
+tr input[type="button"] {
+  width: 25px;
+  font-weight: bold;
+}
+
+th {
+  font-weight: normal;
+}
+
+label {
+  width: 120px;
+  height: 25px;
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+input[type="radio"]+label {
+  width: 180px;
+  height: 20px;
+}
+
+input[type="checkbox"]+label {
+  width: 180px;
+  height: 20px;
+  display: inline-block;
+}
+
+.fieldset {
+  width: 420px;
+  padding: 0 0 0 10px;
+  margin-bottom: 15px;
+  border-color: var(--scolor-3);
+  border-width: 0 0 0 3px;
+  border-style: solid;
+  border-radius: 6px;
+}
+
+h1 {
+  color: var(--scolor-4);
+  font-size: 16px;
+}
+
+.flowentry td {
+  border: 1px solid black;
+  width: 100px;
+  text-align: center;
+}
+
+.form {
+  display: block;
+  float: left;
+  min-width: 500px;
+}
+
+caption {
+  display: table-caption;
+  text-align: left;
+}
+
+/****************************************************************************/
+/*                           Buttons                                        */
+/****************************************************************************/
+
+input[type=submit], input[type=reset] {
+  background-color: var(--scolor-3);
+  border: none;
+  color: var(--white);
+  padding: 8px;
+  text-decoration: none;
+  margin: 4px 8px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+select {
+  background-color: var(--white);
+  cursor: pointer;
+  width: 179px;
+  height: 24px;
+}
+
+select.multiple {
+  background-color: white;
+  cursor: pointer;
+  width: 179px;
+  height: 96px;
+}
+
+input[type=submit]:hover, input[type=reset]:hover {
+  background-color: var(--scolor-0);
+}
+
+input[type=button] {
+  background-color: var(--scolor-3);
+  color: var(--white); 
+  border: solid 2px var(--scolor-3);
+  cursor: pointer;
+}
+
+input[type=button]:hover,  {
+  background-color: var(--scolor-0);
+
+}
+
+select option {
+  color: var(--pcolor-0);  
+}
+
+select option:hover {
+  background-color: var(--scolor-0);
+  color: white;
+}
+
+
+/* Configuration upload forms */
+/* Simplified version of https://codepen.io/sazzad/pen/antDJ */
+.file-upload {
+  /*display:block;
+  float: left;*/
+  /*text-align:center;*/
+  width: 400px;
+  margin: 4px 8px;
+
+}
+
+.file-upload .file-select {
+  display:block;
+  border: 2px solid var(--scolor-3);
+  border-radius: 4px;
+  color: var(--scolor-3);
+  cursor:pointer;
+  height:30px;
+  line-height:30px;
+  text-align:left;
+  background:#FFFFFF;
+  overflow:hidden;
+  margin-top: -1px;
+  position: relative;
+}
+
+.file-upload .file-select .file-select-button {
+  background: var(--scolor-3);
+  padding:0 10px;
+  display:inline-block;
+  height:30px;
+  line-height:30px;
+  color: white;
+  font-weight: bold;
+}
+
+.file-upload .file-select .file-select-name {
+  line-height:30px;
+  display:inline-block;
+  padding:0 10px;
+}
+
+.file-upload .file-select:hover {
+  border-color:var(--scolor-0);
+}
+
+.file-upload .file-select:hover .file-select-button {
+  background:var(--scolor-0);
+  color:#FFFFFF;
+}
+
+.file-upload.active .file-select {
+  border-color:var(--scolor-0);
+}
+
+.file-upload.active .file-select .file-select-button{
+  background:var(--scolor-0);
+  color:#FFFFFF;
+}
+
+.file-upload .file-select input[type=file]{
+  z-index:100;
+  cursor:pointer;
+  position:absolute;
+  height:100%;
+  width:100%;
+  top:0;
+  left:0;
+  opacity:0;
+  filter:alpha(opacity=0);
+}
+
+.file-upload .file-submit {
+  display: block;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.file-upload .file-submit:disabled,
+.file-upload .file-submit:disabled:hover {
+  background-color: lightgray;
+}
+
+
+.filecontent {
+  display: none;
+
+  /*margin: 4px 8px;
+  border: 2px solid var(--scolor-0);
+  border-radius: 4px;*/
+}
