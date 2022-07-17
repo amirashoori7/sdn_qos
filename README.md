@@ -1,8 +1,11 @@
 # sdn_qos
 QoS implementation in Software Defined Network with Ryu Controller
 
-## Ryu Controller Arch
+## 
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/f6d57c8d29c403a016fb196da2a3b59768ccbc3a/demo_results/ryu_arch.jpg)
+
+## Perflow QoS 
+![alt_text](https://github.com/amirashoori7/sdn_qos/blob/8073791a8c0483c3da6cbd1e1f2b490659066917/demo_results/perflow.jpg)
 
 ## Getting started
 create python virtual environment
