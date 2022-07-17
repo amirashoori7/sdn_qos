@@ -6,12 +6,9 @@ QoS implementation in Software Defined Network with Ryu Controller
 
 ## Perflow QoS 
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/8073791a8c0483c3da6cbd1e1f2b490659066917/demo_results/perflow.jpg)
-![alt_text](https://github.com/amirashoori7/sdn_qos/blob/8180fc18ff2323e2e2e06c21d0064147e7cf9008/demo_results/diffserv_results.jpg)
 
 ## Diffserv QoS
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/8180fc18ff2323e2e2e06c21d0064147e7cf9008/demo_results/diffserv.jpg)
-![alt_text](https://github.com/amirashoori7/sdn_qos/blob/8180fc18ff2323e2e2e06c21d0064147e7cf9008/demo_results/perflow_5001results.jpg)
-![alt_text](https://github.com/amirashoori7/sdn_qos/blob/8180fc18ff2323e2e2e06c21d0064147e7cf9008/demo_results/perflow_5002results.jpg)
 
 
 ## Getting started
