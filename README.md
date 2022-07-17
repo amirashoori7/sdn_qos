@@ -10,6 +10,8 @@ QoS implementation in Software Defined Network with Ryu Controller
 ## Diffserv QoS
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/d6a423297848a2b4a2797cbabd6c4de2549bfbe5/demo_results/diffserv%20results.jpg)
 
+## Further work on FlowManager GUI
+![alt_text](https://github.com/amirashoori7/sdn_qos/blob/6fc9763209a50fdb0faadc1187d42617a597dd90/demo_results/flowmgr.jpg)
 
 ## Getting started
 create python virtual environment
