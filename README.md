@@ -1,6 +1,6 @@
 ## QoS Management Solution in Software Defined Networking using Ryu Controller
 
-**This is my MSc thesis project repository, turned into a paper published in (IMPCS).
+**This is my MSc thesis project repository, turned into a paper published in (IMPCS).**
 > available at: https://impcs.zanjan.iau.ir/article_682091.html?lang=en
 
 ### Overview
