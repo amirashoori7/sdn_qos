@@ -1,5 +1,7 @@
-# sdn_qos
-QoS implementation in Software Defined Network with Ryu Controller
+# QoS Management Solution in Software Defined Networking using Ryu Controller
+
+This is my MSc thesis project repository turned into a paper published in (IMPCS), 
+overview available at: https://impcs.zanjan.iau.ir/article_682091.html?lang=en
 
 ## 
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/f6d57c8d29c403a016fb196da2a3b59768ccbc3a/demo_results/ryu_arch.jpg)
