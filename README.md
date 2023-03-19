@@ -1,7 +1,7 @@
 ## QoS Management Solution in Software Defined Networking using Ryu Controller
 
-**This is my master's thesis project repository, which turned into a published paper at (IMPCS).**
-<sub> IMPCS is a persian journal published by Islamic Azad University of Zanjan </sub>
+#### This is my master's thesis project repository, which turned into a published paper at (IMPCS).
+<sub> _IMPCS is a persian journal published by Islamic Azad University of Zanjan_ </sub>
 
 > visit: https://impcs.zanjan.iau.ir/article_682091.html?lang=en 
 
