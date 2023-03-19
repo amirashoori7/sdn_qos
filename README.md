@@ -58,5 +58,21 @@ wget http://www.grid.unina.it/software/ITG/codice/D-ITG-2.8.1-r1023-src.zip
 cd D-ITG-2.8.1-r1023/src/
 make
 ```
+## License
+
+Open Source Software.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Amir Ashoori - a.ashoori7@gmail.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
