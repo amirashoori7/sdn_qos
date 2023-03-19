@@ -13,10 +13,10 @@ The approach of this paper is an implementation of a software-based architecture
 ## RYU architecture
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/f6d57c8d29c403a016fb196da2a3b59768ccbc3a/demo_results/ryu_arch.jpg)
 
-## Perflow QoS 
+## Test Case 1 -Perflow QoS 
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/d6a423297848a2b4a2797cbabd6c4de2549bfbe5/demo_results/perflow%20results.jpg)
 
-## Diffserv QoS
+## Test Case 2 -Diffserv QoS
 ![alt_text](https://github.com/amirashoori7/sdn_qos/blob/d6a423297848a2b4a2797cbabd6c4de2549bfbe5/demo_results/diffserv%20results.jpg)
 
 ## Further work: developing flow manager UI
