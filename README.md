@@ -1,7 +1,7 @@
 ## QoS Management Solution in Software Defined Networking using Ryu Controller
 
-**This is my MSc thesis project repository, turned into a paper published in (IMPCS).**
-> available at: https://impcs.zanjan.iau.ir/article_682091.html?lang=en
+**This is my MSc thesis project repository, turned into a paper published at (IMPCS).**
+> visit: https://impcs.zanjan.iau.ir/article_682091.html?lang=en
 
 ### Overview
 -> Enterprise networks are increasingly becoming larger and more dynamic due to vast deployments of virtualization technologies. Consequently, the explosion of new network applications and services has strained the capabilities of traditional networking architecture in terms of scalability, agility, and efficient traffic management. SDN (Software Defined Networking) is a novel approach to build networks in which control logic is decoupled from data forwarding in order to enable programmability and ease of configuration across the entire network. The centralized control in SDN provides a global view of the entire network resources and their performance which enables the innovation of new service models. This paper demonstrates the implementation of SDN in a sample data center network topology using Mininet and the RYU controller, followed by employing policy-based network management and a differentiated service mechanism for guaranteeing the QoS for different classes of traffic. The proposed framework is a foundation to develop an enterprise-level network control and management product. 
